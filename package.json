@@ -14,7 +14,9 @@
   "keywords": [],
   "author": "Ivchenko Pavlo",
   "private": "true",
-  "browserslist": ["> 0.25%, not dead"],
+  "browserslist": [
+    "> 0.25%, not dead"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Chivapchichi2/exel/issues"
@@ -40,6 +42,7 @@
     "@babel/eslint-parser": "^7.18.2",
     "core-js": "^3.9.0",
     "eslint-config-google": "^0.14.0",
+    "normalize.css": "^8.0.1",
     "regenerator-runtime": "^0.13.9"
   }
 }
