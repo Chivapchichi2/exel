@@ -13,5 +13,7 @@ module.exports = {
   extends: ['eslint:recommended', 'google'],
   rules: {
     'require-jsdoc': 'off',
+    'operator-linebreak': 'off',
+    'indent': 'off',
   },
 };
